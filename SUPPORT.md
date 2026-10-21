@@ -8,4 +8,6 @@ We welcome ideas! Create a new issue and label it as "feature request".
 ## Contact
 For direct communication, please use the issue tracker.
 ## Privacy
+Full policy: https://fgtt462wmf-png.github.io/zettl-support/privacy/
+
 Flyer2Cal processes all data locally on your device. No cloud upload, no external AI, no tracking.
